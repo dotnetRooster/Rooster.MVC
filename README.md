@@ -26,6 +26,4 @@ Description: Rooster is a program made to help you track and share your importan
 * Allow for development offline
 
 # Getting Started
-Able to access WebAPI functionality at 
-
-https://rooster-webapi-app.azurewebsites.net
+Able to access WebAPI functionality at https://rooster-webapi-app.azurewebsites.net
