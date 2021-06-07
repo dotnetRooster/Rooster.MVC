@@ -14,3 +14,18 @@ Description: Rooster is a program made to help you track and share your importan
 * CSS
 * Microsoft Azure
 * ASP.NET MVC
+
+# Features
+* Create User.
+* Create Event.
+* List User Events.
+
+# To-Do List
+* Integrate more Web API features in the MVC.
+* Integrate Google Calender API to manage tasks.
+* Allow for development offline
+
+# Getting Started
+Able to access WebAPI functionality at 
+
+https://rooster-webapi-app.azurewebsites.net
